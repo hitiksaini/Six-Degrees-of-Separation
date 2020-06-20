@@ -1,4 +1,6 @@
 # Six-Degrees-of-Separation
+I have already explained the python code as comments, check it out! also attached the .txt file (facebook data).
+Basically what it is demonstrating is, the max number that could appear is 6 or less than 6 but not greater than 6.
 
 ## What is it ?
 
